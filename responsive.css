@@ -1,0 +1,462 @@
+@media (max-width:800px) {
+    .footerp1 {
+        font-size: 150%;
+    }
+    .footer_content {
+        padding-left: 90px;
+        display: grid;
+        max-width: fit-content;
+    }
+    .footer {
+        height: 1200px;
+    }
+
+    .footer_a {
+        margin-top: 200px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -70px;
+        font-weight: 600;
+    }
+
+    .footer_b {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+
+    .footer_c {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -90px;
+        font-weight: 600;
+    }
+
+    .footer_d {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -70px;
+        font-weight: 600;
+    }
+    .footer_e {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_f {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -100px;
+        font-weight: 600;
+    }
+    .footer_g {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_h {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_i {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -100px;
+        font-weight: 600;
+    }
+    .footer_j {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_k {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_l {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -100px;
+        font-weight: 600;
+    }
+    .footer_m {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_n {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_o {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -100px;
+        font-weight: 600;
+    }
+    .footer_p {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_q {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_r {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_s {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .semi_footer{
+        height: 240px;
+        display: grid;
+    }
+    .footp{
+        margin-left: 0px;
+        padding-top: 40px;
+        padding-left: 10px;
+        margin-right: 0px;
+    }
+    .foota1{
+        margin-left: 20px;
+        margin-top: 100px;
+        margin-bottom: -14.5px;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        border-right: 0px;
+    }
+    .foota2{
+        margin-bottom: -14.5px;
+        margin-left: 100px;
+        margin-top: -3px;
+    }
+    .foota3{
+        margin-bottom: -50px;
+        margin-left: 180px;
+        margin-top: -8px;
+    }
+    .footp1{
+        margin-left: 0px;
+        padding-left: 20px;
+        margin-top: 20px;
+        font-size: 70%;
+    }
+    .footp2{
+        margin-left: 150px;
+        padding-left: 20px;
+        margin-top: 15px;
+        font-size: 70%;
+    }
+}
+@media (max-width:1300px) {
+    .footerp1 {
+        font-size: 150%;
+    }
+    .footer_content {
+        padding-left: 90px;
+        display: grid;
+        max-width: fit-content;
+    }
+    .footer {
+        height: 1200px;
+    }
+
+    .footer_a {
+        margin-top: 200px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -70px;
+        font-weight: 600;
+    }
+
+    .footer_b {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+
+    .footer_c {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -90px;
+        font-weight: 600;
+    }
+
+    .footer_d {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -70px;
+        font-weight: 600;
+    }
+    .footer_e {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_f {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -100px;
+        font-weight: 600;
+    }
+    .footer_g {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_h {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_i {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -100px;
+        font-weight: 600;
+    }
+    .footer_j {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_k {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_l {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -100px;
+        font-weight: 600;
+    }
+    .footer_m {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_n {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_o {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -100px;
+        font-weight: 600;
+    }
+    .footer_p {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_q {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_r {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .footer_s {
+        margin-top: 20px;
+        padding-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-bottom: -80px;
+        font-weight: 600;
+    }
+    .semi_footer{
+        height: 240px;
+        display: grid;
+    }
+    .footp{
+        margin-left: 0px;
+        padding-top: 40px;
+        padding-left: 10px;
+        margin-right: 0px;
+    }
+    .foota1{
+        margin-left: 20px;
+        margin-top: 100px;
+        margin-bottom: -14.5px;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-right: 0px;
+        border-right: 0px;
+    }
+    .foota2{
+        margin-bottom: -14.5px;
+        margin-left: 100px;
+        margin-top: -3px;
+    }
+    .foota3{
+        margin-bottom: -50px;
+        margin-left: 180px;
+        margin-top: -8px;
+    }
+    .footp1{
+        margin-left: 0px;
+        padding-left: 20px;
+        margin-top: 20px;
+        font-size: 70%;
+    }
+    .footp2{
+        margin-left: 150px;
+        padding-left: 20px;
+        margin-top: 15px;
+        font-size: 70%;
+    }
+    .divster{
+        width: fit-content;
+    }
+    .div1{
+        width: 100px;
+    }
+}
